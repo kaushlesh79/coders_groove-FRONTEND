@@ -5,6 +5,15 @@ Front‑end in **React**, back‑end in **Node + Express**, live sync via **Sock
 
 ---
 
+
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codersgruv.netlify.app/)
+
+
+
+
+
+
 ## ✨ Features
 - **Live collaboration** – multiple users share a room via a unique ID and edit code together in real time.
 - **Language‑aware editor** – CodeMirror provides syntax highlighting, auto‑completion, and key‑bindings.
